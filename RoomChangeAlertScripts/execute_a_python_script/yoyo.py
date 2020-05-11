@@ -1,6 +1,7 @@
-
-
 import sys, getopt
+
+# blog post about this here:
+#   https://currentkey.com/2020/05/11/advanced-tutorial-running-a-python-script-on-room-changes/
 
 # proof of concept python script. 
 #   this script should be in your user's root directory
@@ -23,3 +24,4 @@ with open(home + '/somefile.txt', 'w') as the_file:
     the_file.write(sys.argv[1])
     
 the_file.close()
+

@@ -1,4 +1,8 @@
 on roomChange(roomName)
+
+  -- blog post about this here:
+  --   https://currentkey.com/2020/05/11/advanced-tutorial-running-a-python-script-on-room-changes/
+
 	-- this is going to call a python script (i named "yoyo.py") in my root directory
 	-- and pass the roomName string along as a command line argument
 	
