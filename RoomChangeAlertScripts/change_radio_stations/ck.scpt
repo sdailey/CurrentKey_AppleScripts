@@ -11,7 +11,7 @@ on roomChange(roomName)
 			-- I switch to the Space with a Room named "Spanish" assigned to it
 		
 			-- I have a station named this in Broadcasts 
-			play "Cadena SER España"
+			play "Chanquete FM Málaga"
 			
 		else if (roomName = "Sports") then
 			
