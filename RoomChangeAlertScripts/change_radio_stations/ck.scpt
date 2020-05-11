@@ -1,5 +1,8 @@
 on roomChange(roomName)
-
+	
+	# blog post about this here:
+	#   https://spencerdailey.com/2020/05/07/how-to-give-each-of-your-macs-spaces-a-custom-sound/
+	
 	-- any lines with a double-dashes ( -- ) are comments, not code
 	-- these Room names have been assigned to my Mac's Spaces in CurrentKey Stats
 	
